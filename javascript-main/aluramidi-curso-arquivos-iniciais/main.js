@@ -5,6 +5,7 @@ function tocaSomPom () {
 
 }
 
+document.querySelectorAll ('.tecla');
 
 document.querySelector ('.tecla_pom').onclick = tocaSomPom;
 
